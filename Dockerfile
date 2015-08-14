@@ -1,5 +1,5 @@
 # Inherit from Heroku's stack
-FROM jkutner/jvm
+FROM heroku/jvm
 
 # Install Lein
 RUN mkdir -p /app/bin
