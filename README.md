@@ -1,3 +1,3 @@
-# Heroku Java Docker Image
+# Heroku Clojure Docker Image
 
 For use with Heroku Docker CLI
