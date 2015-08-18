@@ -47,5 +47,4 @@ the container, build your application, and then run it. Subsequent runs will
 use cached dependencies (unless your `project.clj` file has changed).
 
 You'll be able to access your application at `http://<docker-ip>:8080`, where
-`<docker-ip>` is either the value of running `boot2docker ip` if you are on Mac
-or Windows, or your localhost if you are running Docker natively.
+`<docker-ip>` is the value of running `docker-machine ip default` if you are on Mac.
